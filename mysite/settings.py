@@ -25,7 +25,7 @@ SECRET_KEY = '8hraos8@vt#v7sr=#f_08)ard5-rzp!fk+z*#!*!f(j!7sx-*i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<rubylvt>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','rubylvt.pythonanywhere.com']
 
 
 # Application definition
